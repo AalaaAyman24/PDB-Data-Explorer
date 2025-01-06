@@ -7,7 +7,7 @@ This project provides a graphical user interface (GUI) for analyzing Protein Dat
 ---
 
 # Demo Video
-[![Demo Video](https://github.com/AalaaAyman24/PDB-Data-Explorer/blob/main/GUI%20PDB.jpg)](LinkedIn)
+[![Demo Video](https://github.com/AalaaAyman24/PDB-Data-Explorer/blob/main/GUI%20PDB.jpg)](https://www.linkedin.com/posts/aalaa-ayman_bioinformatics-python-pdb-activity-7282088495496462337-JEsw?utm_source=share&utm_medium=member_desktop)
 
  ---
 
