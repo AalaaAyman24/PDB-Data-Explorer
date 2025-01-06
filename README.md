@@ -57,9 +57,9 @@ This project provides a graphical user interface (GUI) for analyzing Protein Dat
 
 ---
 
-## Usage
-1. Launch the app.
-2. Enter a PDB ID to load data.
-3. Use intuitive buttons to explore chains, residues, and atoms or perform BLAST searches.
+## Acknowledgments
+- *PDB*: For structural data.
+- *NCBI*: For BLAST services.
+- *Biopython*: For simplifying PDB analysis.
 
 ---
