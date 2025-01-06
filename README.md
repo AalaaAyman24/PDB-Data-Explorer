@@ -6,6 +6,11 @@ This project provides a graphical user interface (GUI) for analyzing Protein Dat
 
 ---
 
+# Demo Video
+[![Demo Video](https://github.com/AalaaAyman24/PDB-Data-Explorer/blob/main/GUI%20PDB.jpg)](LinkedIn)
+
+ ---
+
 ## Features
 
 1. **Load PDB Data**: Retrieve and parse PDB files using their unique IDs.
