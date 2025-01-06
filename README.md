@@ -26,3 +26,9 @@ This project provides a graphical user interface (GUI) for analyzing Protein Dat
    - Display best hit information including accession number, e-value, and alignment details.
 
 ---
+
+## Installation
+### Requirements
+- Python 3.8+
+- Libraries: tkinter, prody, biopython, numpy, requests
+
