@@ -63,9 +63,9 @@ This project provides a graphical user interface (GUI) for analyzing Protein Dat
 
 ## Acknowledgments
 
-- *PDB*: For structural data.
-- *NCBI*: For BLAST services.
-- *Biopython*: For simplifying PDB analysis.
+- **PDB**: For structural data.
+- **NCBI**: For BLAST services.
+- **Biopython**: For simplifying PDB analysis.
 
 ---
 
