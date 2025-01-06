@@ -1,6 +1,6 @@
 ---
 
-# PDB-Data-Explorer 🔬🌐
+# PDB Data Explorer 🔬🌐
 This project provides a graphical user interface (GUI) for analyzing Protein Data Bank (PDB) files. The tool is built using Python and leverages various bioinformatics libraries to retrieve, parse, and display structural information about proteins, chains, residues, and atoms. Additionally, the tool supports sequence alignment and BLAST search functionalities.
 
 ---
@@ -31,4 +31,19 @@ This project provides a graphical user interface (GUI) for analyzing Protein Dat
 ### Requirements
 - Python 3.8+
 - Libraries: tkinter, prody, biopython, numpy, requests
+
+### Setup
+1. Clone the repository:
+   bash
+   git clone https://github.com/AalaaAyman24/PDB-Data-Explorer
+   
+2. Install dependencies:
+   bash
+   pip install -r requirements.txt
+   
+3. Run the tool:
+   bash
+   python main.py
+   
+
 
