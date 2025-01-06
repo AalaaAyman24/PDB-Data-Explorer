@@ -34,16 +34,18 @@ This project provides a graphical user interface (GUI) for analyzing Protein Dat
 
 ### Setup
 1. Clone the repository:
-   bash
+   ```bash
    git clone https://github.com/AalaaAyman24/PDB-Data-Explorer
+   ```
    
 2. Install dependencies:
-   bash
+   ```bash
    pip install -r requirements.txt
+   ```
    
 3. Run the tool:
-   bash
+   ```bash
    python main.py
-   
+   ```
 
 
