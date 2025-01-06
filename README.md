@@ -93,3 +93,7 @@ For any inquiries or feedback, please contact:
 - GitHub: [https://github.com/AalaaAyman24]
 
 ---
+
+### Thank you for using the PDB Data Explorer!🙌🏻
+
+---
